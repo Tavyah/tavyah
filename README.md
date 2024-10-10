@@ -4,7 +4,7 @@
 <summary><h1>About me ✨</h1></summary>
 <br>
 Let's just be real...
-I am a <bold>huge fucking nerd</bold> who <bold>loves</bold> everything <bold>data and cybersecurity</bold> 🤓
+I am a <b>huge fucking nerd</b> who <bold>loves</bold> everything <bold>data and cybersecurity</bold> 🤓
 
 As a developer and ethical hacker I have learned that documentation and clean coding is an important part of keeping my work structured. 
 It's easier to maintain and to be efficient when everything looks sharp 😎✨
