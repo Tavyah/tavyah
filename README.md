@@ -21,11 +21,19 @@
   <summary><h2>Languages and Tools 🛠️</h2></summary>
   <br>
   <p>
-    <a href="https://www.python.org/" target=_blank><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" width=40 height=40>
-      <a href="https://cplusplus.com/" target=_blank><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" width=40 height=40>
+    <a href="https://www.python.org/" target=_blank><img       src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" width=40 height=40>
+    <a href="https://cplusplus.com/" target=_blank><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" width=40 height=40>
+    <a href="https://www.java.com/en/" target=_blank><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" width=40 height=40>
+    <a href="https://www.javascript.com/" target=_blank><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" width=40 height=40>
+    <a href="https://code.visualstudio.com/" target=_blank><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/vscode.svg" width=40 height=40>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target=_blank><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" width=40 height=40>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target=_blank><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" width=40 height=40>
+    <a href="" target=_blank><img src="" width=40 height=40>
+      
   </p>
 </details>
 
+[back to the top](#Heiaaaaaaaaa)
 <!--
 **Tavyah/tavyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
