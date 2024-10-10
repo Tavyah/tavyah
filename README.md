@@ -1,8 +1,7 @@
-<a href="https://tiril.tech/"><img src="https://giphy.com/embed/3ohzdQ1IynzclJldUQ" align=right width=300></a>
-## Heiaaaaaaaaa 👋
-
+<a href="https://tiril.tech/"><img align=right width=300 src="https://media.giphy.com/media/owRSsSHHoVYFa/giphy.gif?cid=ecf05e477x1o2s4g00redce35drg48yvpvs978mo68jxnlpl&ep=v1_gifs_related&rid=giphy.gif&ct=g"></a>
+### Heiaaaaaaaaa 👋
 <details>
-  <summary><h2>About me ✨</h2></summary>
+  <summary><b>✨ About me</b></summary>
   <br>
   Let's just be real...
   I am a <b>huge fucking nerd</b> who <b>loves</b> everything <b>data and cybersecurity</b> 🤓
@@ -19,7 +18,7 @@
 </details>
 
 <details>
-  <summary><h2>Languages and Tools 🛠️</h2></summary>
+  <summary><b>🛠️ Languages and Tools</b></summary>
   <br>
   <p>
     <a href="https://www.python.org/" target=_blank><img       src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" width=40 height=40>
@@ -29,12 +28,33 @@
     <a href="https://code.visualstudio.com/" target=_blank><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/vscode.svg" width=40 height=40>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target=_blank><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" width=40 height=40>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target=_blank><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" width=40 height=40>
-    <a href="" target=_blank><img src="" width=40 height=40>
-    
-      
+    <a href="https://react.dev/" target=_blank><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/react.svg" width=40 height=40>
+    <a href="https://flask.palletsprojects.com/en/3.0.x/" target=_blank><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/flask.svg" width=40 height=40>
+    <a href="https://www.docker.com/" target=_blank><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/docker.svg" width=40 height=40>
+    <a href="https://github.com/" target=_blank><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/github.svg" width=40 height=40>
+    <a href="https://www.postgresql.org/" target=_blank><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" width=40 height=40>
+    <a href="https://www.jetbrains.com/pycharm/" target=_blank><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/pycharm.svg" width=40 height=40>
+    <a href="https://www.jetbrains.com/idea/" target=_blank><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/intellij.svg" width=40 height=40>
+    <a href="https://git-scm.com/" target=_blank><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/git.svg" width=40 height=40>
+    <a href="https://www.gnu.org/software/bash/" target=_blank><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/bash.svg" width=40 height=40>
+    <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target=_blank><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%23.svg" width=40 height=40>
+    <a href="https://www.linux.org/" target=_blank><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/linux.svg" width=40 height=40>
+    <a href="https://ctf.hackthebox.com/user/profile/469819" target=_blank><img src="https://www.hackthebox.com/images/landingv3/mega-menu-logo-htb.svg" width=40 height=40>
+    <a href="https://tryhackme.com/r/p/Tavy" target=_blank><img src="https://tryhackme-badges.s3.amazonaws.com/Tavy.png" alt="Tavyah TryHackMe Profile" /></a>  
   </p>
 </details>
-
+<details>
+  <summary>🌈 Check out my projects</summary>
+  <br>
+  <p>
+    You can read more of my upcoming projects at my <a href="https://tiril.tech/blog" target=_blank>blog</a>, if you like... Not forcing you! 🥶
+    <a href="" target=_blank><img alt="" src="" width=100 height=40></a>
+    <a href="" target=_blank><img alt="" src="" width=100 height=40></a>
+    <a href="" target=_blank><img alt="" src="" width=100 height=40></a>
+    <a href="" target=_blank><img alt="" src="" width=100 height=40></a>
+    <a href="" target=_blank><img alt="" src="" width=100 height=40></a>
+  </p>
+</details>
 [back to the top](#Heiaaaaaaaaa)
 <!--
 **Tavyah/tavyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
