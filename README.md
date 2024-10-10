@@ -1,3 +1,4 @@
+<a href="https://tiril.tech/"><img src="https://giphy.com/embed/3ohzdQ1IynzclJldUQ" align=right width=300></a>
 ## Heiaaaaaaaaa 👋
 
 <details>
@@ -29,6 +30,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target=_blank><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" width=40 height=40>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target=_blank><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" width=40 height=40>
     <a href="" target=_blank><img src="" width=40 height=40>
+    
       
   </p>
 </details>
