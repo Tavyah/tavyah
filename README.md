@@ -44,7 +44,7 @@
   </p>
 </details>
 <details>
-  <summary><b>🌈 Check out my projects</b></summary>
+  <summary><b>🌈 Check Out My Projects</b></summary>
   <br>
   <p>
     You can read more of my upcoming projects at my <a href="https://tiril.tech/blog" target=_blank>blog</a>, if you like... Not forcing you! 🥶<br>
