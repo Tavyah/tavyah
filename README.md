@@ -44,21 +44,19 @@
   </p>
 </details>
 <details>
-  <summary>🌈 Check out my projects</summary>
+  <summary><b>🌈 Check out my projects</b></summary>
   <br>
   <p>
     You can read more of my upcoming projects at my <a href="https://tiril.tech/blog" target=_blank>blog</a>, if you like... Not forcing you! 🥶
-    <a href="" target=_blank><img alt="" src="" width=100 height=40></a>
-    <a href="" target=_blank><img alt="" src="" width=100 height=40></a>
-    <a href="" target=_blank><img alt="" src="" width=100 height=40></a>
-    <a href="" target=_blank><img alt="" src="" width=100 height=40></a>
-    <a href="" target=_blank><img alt="" src="" width=100 height=40></a>
+    <a href="https://tiril.tech" target=_blank><img alt="Tiril Tech Website" src="https://github.com/user-attachments/assets/0ab92ca2-b9e7-43a7-979f-89ce61bf3927" width=400 height=180></a>
+    <a href="https://github.com/NaztyDomingo/Cityplanner_Tool" target=_blank><img alt="City Planner Tool" src="https://www.tiril.tech/Resources/images/CityPlannerGif.gif" width=400 height=180></a>
   </p>
 </details>
       
 [back to the top](#Heiaaaaaaaaa)
 <!--
-**Tavyah/tavyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tavyah/tavyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.![tiril_tech_website2](https://github.com/user-attachments/assets/24134a12-01c8-48cd-8735-5f3ec7c9b92c)
+
 
 Here are some ideas to get you started:
 
