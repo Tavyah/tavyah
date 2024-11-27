@@ -49,6 +49,7 @@
   <p>
     You can read more of my upcoming projects at my <a href="https://tiril.tech/blog" target=_blank>blog</a>, if you like... Not forcing you! 🥶<br>
     <a href="https://tiril.tech" target=_blank><img alt="Tiril Tech Website" src="https://github.com/user-attachments/assets/0ab92ca2-b9e7-43a7-979f-89ce61bf3927" width=400 height=180></a>
+    <a href="https://github.com/Tavyah/Knightly-Platformer-Demo" target=_blank><img alt="Knightly Platformer" src="https://github.com/Tavyah/Knightly-Platformer-Demo/blob/main/knightly_gif.gif" width=400 height=180></a>
     <a href="https://github.com/NaztyDomingo/Cityplanner_Tool" target=_blank><img alt="City Planner Tool" src="https://www.tiril.tech/Resources/images/CityPlannerGif.gif" width=400 height=180></a>
     <a href="https://github.com/Tavyah/Weather-Application" target=_blank><img alt="Weather Application" src="https://github.com/Tavyah/Weather-Application/blob/main/demo_weather_app.gif" width=400 height=180></a>
   </p>
